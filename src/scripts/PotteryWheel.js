@@ -8,6 +8,7 @@ export const makePottery =(shapePar, weightPar, heightPar)=>{
         height: heightPar,
         id: potteryVal++
     }
+    //console.log(potteryObj)
     return potteryObj
 }
 
